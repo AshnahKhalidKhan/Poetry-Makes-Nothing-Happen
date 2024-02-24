@@ -28,6 +28,15 @@
 - The Tyger
 - Mazameen e Saleem Ahmed
 - Rumi: The King & The Lost Falcon
+- Andha Kabaari
+- Tasawwuf Kya Hai
+- Jalal-e-Gota
+- Nayay Kapray Pehen Kar Jaun Kahaan Aur Baal Banaon Kis Kay Liyay
+- I Dwell In Possibility
+- Tell all the truth, but tell it slant
+- The Interpretation of Dreams
+- Spicer's Instant Poetry
+- A Thing Of Beauty Is a Joy
 
 # Movie List:
 - The Day The Earth Stood Still
@@ -37,6 +46,7 @@
 - Rocky
 - Blade Runner
 - The Inferno
+- The Secret Life of Walter Mitty
 
 # Game List:
 - God of War

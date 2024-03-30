@@ -37,6 +37,19 @@
 - The Interpretation of Dreams
 - Spicer's Instant Poetry
 - A Thing Of Beauty Is a Joy
+- The Story of Philosophy
+- The Pleasures of Philosophy (Chapter on love)
+- Fire And Ice
+- Don Quixote
+- The Conflict of East And West in Urdu Literature
+- The Love Of Discourse And The Discourse of Love
+- Symposium
+- The Wasteland
+- Mutabassum Qaatil
+- Tapai Par Gara
+- Sources Of The Self
+- Banjaaranama
+- Pygmalion
 
 # Movie List:
 - The Day The Earth Stood Still
@@ -47,6 +60,13 @@
 - Blade Runner
 - The Inferno
 - The Secret Life of Walter Mitty
+- Chori Chori
+- 50/50
+- Alif Noon
+- Hitch
+- Partner
+- The Mask of Zorro
+- My Fair Lady
 
 # Game List:
 - God of War

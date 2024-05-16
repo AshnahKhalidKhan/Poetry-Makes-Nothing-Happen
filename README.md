@@ -50,6 +50,26 @@
 - Sources Of The Self
 - Banjaaranama
 - Pygmalion
+- Aporia of Reading (Hillis Miller "How to Read Literature")
+- The Metamorphosis
+- Reinstating Orientalism
+- Letters To A Young Poet
+- Daffodils
+- Ode: Imitations of Immorality
+- The Most Human, Human
+- The Study of Poetry (Mathew Arnold)
+- Death of The Author
+- Will to Power
+- Tradition & Individual Talent
+- The Reluctant Fundamentalist
+- Shackles of Colonialism
+- Inferno
+- Nostromo
+- Heart of Darkness
+- El Dorado
+
+# Songs
+- Sona Chahta Hun
 
 # Movie List:
 - The Day The Earth Stood Still
@@ -70,3 +90,5 @@
 
 # Game List:
 - God of War
+- Uncharted
+- Doom
